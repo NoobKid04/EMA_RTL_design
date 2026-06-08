@@ -1,1 +1,25 @@
 *.mp4
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.out
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+
+# Compiled PDF (optional - uncomment if you don't want to push PDF)
+# *.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
